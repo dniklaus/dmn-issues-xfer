@@ -1,0 +1,80 @@
+D:\git\py-prj\dmn-issues-xfer>python gh-issues-import.py --all
+Loaded options from default config file in 'D:\git\py-prj\dmn-issues-xfer\config.ini'
+You are about to add to 'ERNI-CoP-IoT/dust-measurement-network':
+ * 61 new issues
+ * 17 new comments
+ * 0 new milestones
+ * 11 new labels
+Are you sure you wish to continue? [Y/n]
+Successfully created label 'FW'
+Successfully created label 'Task'
+Successfully created label 'BE'
+Successfully created label 'ProdREQ'
+Successfully created label 'FE'
+Successfully created label 'DS'
+Successfully created label 'DevOps'
+Successfully created label 'TechREQ'
+Successfully created label 'incomplete'
+Successfully created label 'HW'
+Successfully created label 'UserStory'
+Successfully created issue '[CLOSED] Integrate Battery surveillance component'
+Successfully created issue 'ProdREQ - Read data taken by detector from the Time Series DB'
+ > Successfully added 3 comments.
+Successfully created issue 'ProdREQ - Display historical trends at the Front End'
+Successfully created issue 'ProdREQ - Processes data to show 1-2 day predictions at XY accuraccy'
+ > Successfully added 2 comments.
+Successfully created issue 'ProdREQ - Localise Detector by User'
+Successfully created issue 'ProdREQ - Displays predictions for 1-2 days at XY accuraccy'
+Successfully created issue 'ProdREQ - Network of detectors has to be easily extensible'
+Successfully created issue 'ProdREQ - deployment by docker images'
+Successfully created issue 'ProdREQ - Monitors network of detectors'
+Successfully created issue 'ProdREQ - Responsive web design'
+Successfully created issue 'ProdREQ - Detectors are sending data to a Time Series DB'
+ > Successfully added 1 comments.
+Successfully created issue '[CLOSED] Detector dev: base including sensors'
+Successfully created issue '[CLOSED] Task - Update Detector README.md'
+Successfully created issue 'Task - Setup Docker Container for TTN Gateway Service'
+Successfully created issue 'Task - Setup InfluxDB Service'
+Successfully created issue 'TechREQ - Detector Data Stream Binary Format'
+Successfully created issue 'ProdREQ - Detectors are attached via The Things Network (TTN) '
+Successfully created issue 'TechREQ - Detector Measurement Intervals'
+Successfully created issue 'TechREQ - Detector Data Transmission Interval'
+Successfully created issue 'TechREQ - Detector Measurement Data'
+Successfully created issue 'TechREQ - Battery'
+Successfully created issue 'UserStory - Detector Device Production Import'
+Successfully created issue ' UserStory - Detector Device Start of  Operation'
+Successfully created issue 'UserStory - Detector Operation'
+Successfully created issue '[CLOSED] Detector FW - no reaction on Debug CLI'
+ > Successfully added 1 comments.
+Successfully created issue '[CLOSED] remove interferring init code from example (fix #25)'
+Successfully created issue '[CLOSED] Get weather data from openweather'
+ > Successfully added 1 comments.
+Successfully created issue '[CLOSED] Create dummy data csv file'
+ > Successfully added 1 comments.
+Successfully created issue 'Enable persistent device id storage using FRAM'
+ > Successfully added 1 comments.
+Successfully created issue '[CLOSED] Add history window to training CSV'
+ > Successfully added 1 comments.
+Successfully created issue 'Detector App freezes when starting FRAM while LMIC driver is in operation'
+ > Successfully added 2 comments.
+Successfully created issue 'User Story - Augment incoming sensor data with weather data'
+ > Successfully added 1 comments.
+Successfully created issue '[CLOSED] User Story - Implement a custom ML model using Keras'
+ > Successfully added 1 comments.
+Successfully created issue '[CLOSED] User story - make ML model deployable'
+ > Successfully added 1 comments.
+Successfully created issue '[CLOSED] Improve filtering and aggregating'
+Successfully created issue '[CLOSED] Prediction server + refactoring'
+Successfully created issue '[CLOSED] Read in GPIO 5-bit Device Serial Number'
+Successfully created issue '[CLOSED] Add Device Serial Number handling to Assets class in Assets component'
+Successfully created issue '[CLOSED] Add IAssetsDeviceSerialNrAdapter interface to Assets component'
+Successfully created issue '[CLOSED] Document the HW aspects of the GPIO based Device Serial Number'
+Successfully created issue '[CLOSED] Assets: Module integration test commands for Device Serial Number handling'
+Successfully created issue '[CLOSED] Implement the interface IAssestsDeviceSerialNrAdapter doing the GPIO read'
+Successfully created issue '[CLOSED] Detector dev nid assets'
+Successfully created issue '[CLOSED] Resolve #41'
+Successfully created issue 'Add history visualization'
+Successfully created issue '[CLOSED] Detector dev nid assets'
+Successfully created issue '[CLOSED] Detector dev nid assets'
+ERROR: There was a problem during authentication.
+Double check that your username and password are correct, and that you have permission to read from or write to the specified repositories.
